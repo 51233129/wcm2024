@@ -4,7 +4,7 @@ Data: 2024-03-18 04:04
 Category: 五專
 Tags: Chatgpt, w5
 Slug: wcm-5j-w5
-Author: kmol
+Author: 51233129
 ---
 
 第五週將利用與ChatGPT的對話,整理與精密機械科有關的問題詢答紀錄.
